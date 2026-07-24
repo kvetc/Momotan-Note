@@ -3,7 +3,9 @@
 
 支持富文本编辑、图文混排、markdown格式渲染，markdown代码编辑，待办等功能。
 
-适配移动端与PC端，支持浏览器原生返回和PWA。
+适配移动端与PC端，支持浏览器原生返回和PWA。所有数据存储于本地indexedDB。
+
+在线体验：https://note.momotan.cc/
 
 <img width="2250" height="1458" alt="8429a00be725a437858c699afd03a937" src="https://github.com/user-attachments/assets/8ae957a1-3a3d-4913-abcd-266b2ff6d1d2" />
 <img width="2250" height="1453" alt="cd36eee2f7d7f7414ad8303b43119f72" src="https://github.com/user-attachments/assets/7299b95a-f593-4319-878a-1433e6813a37" />
